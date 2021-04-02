@@ -1,1 +1,1 @@
-# mafia-game
+Command Line based game using the concepts of Object-Oriented Programing in Java
